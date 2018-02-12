@@ -4,4 +4,4 @@ a collection of scripts and resources for loading from different datasets, or fo
 
 # Documented Datasets
 
-- [PMLB](./PMLB.md)
+- [PMLB](./PMLB/PMLB.md)

@@ -13,7 +13,7 @@ git clone https://github.com/EpistasisLab/penn-ml-benchmarks.git
 Next, source the following script from this repository:
 
 ```
-source(<path/to/neurodata/datasets/repo>/PMLB/load_pmlb.R)
+source(<path/to/neurodata/datasets/repo>/PMLB/load.R)
 ```
 
 Finally use the following script to load the desired data:
